@@ -1,8 +1,8 @@
 return {
     -- Shop Slots
     ["shop_joker_slots"] = 1,
-    ["shop_voucher_slots"] = 1,
-    ["shop_booster_slots"] = 1,
+    ["shop_voucher_slots"] = 0,
+    ["shop_booster_slots"] = 0,
 
     -- Card Area Slots
     ["consumeable_slots"] = 0,
